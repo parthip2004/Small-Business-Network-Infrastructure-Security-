@@ -51,7 +51,7 @@ port security, and ACL-based traffic restrictions.
 
 ## Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](network-topology.png)
 
 ## Security
 
